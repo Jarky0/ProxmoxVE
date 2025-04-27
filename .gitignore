@@ -55,7 +55,7 @@ vm/*.bak
 *.swn
 *.tmp
 *.backup
-
+jarky_*
 # JSON configuration backups
 json/*.bak
 json/*.tmp

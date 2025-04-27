@@ -9,7 +9,7 @@ const isMobile = typeof window !== "undefined" && window.innerWidth < 640;
 
 export const navbarLinks = [
 	{
-		href: `https://github.com/community-scripts/${basePath}`,
+		href: `https://github.com/jarky0/${basePath}`,
 		event: "Github",
 		icon: <FaGithub className="h-4 w-4" />,
 		text: "Github",
@@ -21,7 +21,7 @@ export const navbarLinks = [
 		text: "Discord",
 	},
 	{
-		href: `https://github.com/community-scripts/${basePath}/blob/main/CHANGELOG.md`,
+		href: `https://github.com/jarky0/${basePath}/blob/main/CHANGELOG.md`,
 		event: "Change Log",
 		icon: <Scroll className="h-4 w-4" />,
 		text: "Change Log",
